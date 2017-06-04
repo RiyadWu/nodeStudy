@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "username": "gua",
+    "password": "6aa61ba1213b734b79cd659110994562d085d326",
+    "note": "nodejs"
+  },
+  {
+    "id": 2,
+    "username": "gua1",
+    "password": "6aa61ba1213b734b79cd659110994562d085d326",
+    "note": "js"
+  },
+     {
+       "id": 3,
+       "username": "gua2",
+       "password": "6aa61ba1213b734b79cd659110994562d085d326",
+       "note": "js"
+     }
+]
